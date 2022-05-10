@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">B23_HPT</string>
+    <string name="email">E-Mail</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create account</string>
+    <string name="login">Login</string>
+    <string name="local">Local</string>
+    <string name="move_pairing">Move Pairing</string>
+    <string name="move_command">Move Command</string>
+    <string name="wifi_ssid">Wi-Fi SSID</string>
+    <string name="wifi_password">Wi-Fi Password</string>
+    <string name="wifi_password_hint">Input Wi-Fi Password</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="serial_number_hint">Input Serial Number</string>
+    <string name="request_connection">Connection</string>
+</resources>
